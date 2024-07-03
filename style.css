@@ -20,6 +20,7 @@ h1 {
 #color-box {
   width: 450px;
   height: 450px;
+  border-radius: 10px 40%;
   background-color: #3498db;
   margin: 20px auto;
 }
